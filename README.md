@@ -81,3 +81,10 @@ Este projeto está sob a licença MIT. Consulte o ficheiro [LICENSE](LICENSE) pa
 ---
 ⭐ **Desenvolvido por Ricardo Melo**
 *Full Stack Developer focado em criar soluções digitais eficientes e modernas.*
+
+---
+
+## ⚖️ Aviso Legal / Disclaimer
+
+Este projeto foi desenvolvido **apenas para fins educativos e de portfólio**. Não possui fins lucrativos. 
+Todas as marcas, logótipos e imagens utilizadas são propriedade intelectual do **Sport Lisboa e Benfica**. Este site não é oficial e não tem qualquer ligação formal com o clube.
