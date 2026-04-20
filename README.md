@@ -86,5 +86,4 @@ Este projeto está sob a licença MIT. Consulte o ficheiro [LICENSE](LICENSE) pa
 
 ## ⚖️ Aviso Legal / Disclaimer
 
-Este projeto foi desenvolvido **apenas para fins educativos e de portfólio**. Não possui fins lucrativos. 
-Todas as marcas, logótipos e imagens utilizadas são propriedade intelectual do **Sport Lisboa e Benfica**. Este site não é oficial e não tem qualquer ligação formal com o clube.
+Projeto desenvolvido apenas para fins educativos e de portfólio, sem fins lucrativos. Todas as marcas, logótipos e imagens utilizadas são propriedade intelectual dos seus respetivos **clubes** e **detentores de direitos**. Este site não é **oficial** e não possui qualquer ligação formal com as **entidades mencionadas**.
